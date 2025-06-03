@@ -4,3 +4,4 @@ joblib
 matplotlib
 evidently
 loguru
+streamlit
