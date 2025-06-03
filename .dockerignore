@@ -1,6 +1,6 @@
 venv/
 __pycache__/
-#.git
+.git
 .gitignore
 logs/
 *.pyc
